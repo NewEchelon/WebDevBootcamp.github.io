@@ -407,3 +407,20 @@
   session: spring2014
   name: Troy Sol
   github: TDSolberg
+
+
+userid: dsabbott
+  website: http://www.newechelondesigns.com
+  student: true
+  session: fall2014
+  name: Daniel Abbott
+  employed: false
+  github: NewEchelon
+  linkedin: http://www.linkedin.com/in/newechelondesigns
+  twitter: 
+  email: newechelondesigns@gmail.com
+  phone: 720-630-3013
+  city: Longmont
+  state: CO
+  postal: 80504
+  resume: https://drive.google.com/file/d/0BxF4aRWDMLAaZThlaUdQVUFjUEk/view?usp=sharing
